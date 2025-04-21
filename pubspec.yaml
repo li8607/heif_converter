@@ -47,6 +47,10 @@ flutter:
         pluginClass: HeifConverterPlugin
       ios:
         pluginClass: HeifConverterPlugin
+      macos:
+        pluginClass: HeifConverterPlugin
+      windows:
+        pluginClass: HeifConverterPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
